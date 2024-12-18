@@ -1,9 +1,6 @@
 # M-QAM
 Diagramme de Constellation QAM  Ce script Python génère et affiche le diagramme de constellation pour des modulations QAM (Quadrature Amplitude Modulation) de différentes tailles. Il inclut également un tableau détaillé des symboles avec leurs caractéristiques (énergie, phase, etc.)
 
-Diagramme de Constellation QAM
-
-Ce script Python génère et affiche le diagramme de constellation pour des modulations QAM (Quadrature Amplitude Modulation) de différentes tailles. Il inclut également un tableau détaillé des symboles avec leurs caractéristiques (énergie, phase, etc.).
 Fonctionnalités principales :
 
     Génération de constellations QAM : Les constellations de tailles standard (4, 16, 32, 64, 128, 512, 1024, 2048, 4096) sont supportées.
